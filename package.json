@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Karim",
-	"description": "A project to learn backend and API dev",
+	"description": "Learning backend and API dev.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://crimson-ai.github.io/backend-api-learning/"
+		"url": "https://github.com/crimson-ai/backend-api-learning"
 	}
 }
